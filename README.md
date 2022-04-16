@@ -6,15 +6,15 @@
   1. Install Jupyter Notebook [here](https://jupyter.org/install).
   2. Clone this repository to your computer.
   3. Open command prompt (or terminal for you Linux nerds) and navigate to the project directory.
-  4. Run the command <code>$ jupyter notebook</code>.
-  5. Open ML Programming.ipynb.
-  6. Click on "Kernel" > "Restart and & Run All".
+  4. Run the command <code> $ jupyter notebook</code>.
+  5. Open **ML Programming.ipynb**.
+  6. Click on __Kernel__ > __Restart and & Run All__.
 
  ## Streamlit
-  The website is already deployed [here](https://github.com/moosahassanx/Salary-Predictor). To locally run:
+  The website is already deployed [here](https://share.streamlit.io/moosahassanx/salary-predictor/main/app.py) but you can also locally run the web application:
    1. Open command prompt (or terminal for you Linux nerds again) and navigate to the project directory.
-   2. Run the command <code>streamlit run app.py</code>.
+   2. Run the command <code> $ streamlit run app.py</code>.
    3. Your browser should automatically open a window/tab displaying the page.
 
 # Credits
-This code was inspired by Python Engineer on [YouTube](https://www.youtube.com/c/PythonEngineer) in which he uses dataset from 2020. My model is updated for the 2021 dataset. Other prediction models of the same dataset will be added to this project.
+This code was inspired by [Patrick Loeber](https://www.python-engineer.com/) in which he uses dataset from 2020 in his ML model. My model is updated for the 2021 dataset. Other prediction models of the same dataset will be added to this project.
